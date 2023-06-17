@@ -1,6 +1,8 @@
 ### Hi there 👋
 您好，我是Vicky，對程式學習有興趣的大學生。  
 Hi, I'm Vicky, a college students interested in programming.  
+![profile](https://github.com/Huaixuannn/Huaixuannn/assets/110719407/d519e954-74ff-433b-98ab-711e868d718e)
+
 <!--
 **Huaixuannn/Huaixuannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
