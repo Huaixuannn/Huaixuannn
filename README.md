@@ -1,7 +1,6 @@
 ### Hi there 👋
-您好，我是Vicky，大學生。
-
-Hi, I'm Vicky, a college student.
+-您好，我是Vicky，大學生。
+-Hi, I'm Vicky, a college student.
 <!--
 **Huaixuannn/Huaixuannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
