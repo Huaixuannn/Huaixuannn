@@ -1,6 +1,5 @@
 ### Hi there 👋
-您好，我是Vicky，對程式學習有興趣的大學生。  
-Hi, I'm Vicky, a college students interested in programming.  
+
   
 
 <!--
